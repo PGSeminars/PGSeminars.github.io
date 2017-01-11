@@ -1,3 +1,4 @@
+***
 **January Seminar**: 12/01/2017 - IDS lecture theatre (2:30 - 3:30 pm)
 
 Presenters:
