@@ -10,10 +10,10 @@ Presenters:
 2. **Gido Elamin**
 
 Apologies for today's meeting:
-* Dr Tracy Coelho
-* Paula Barraga
-* Alejandra Vergara
-* Lindert Mercken
+* Dr Tracy Coelho.
+* Paula Barraga.
+* Alejandra Vergara.
+* Lindert Mercken.
 
 **December Seminar**: 12/01/2017 - IDS Lecture Theatre (2:30-3:30 pm)
 
