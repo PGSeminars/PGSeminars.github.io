@@ -24,7 +24,7 @@ Apologies for today's meeting:
 Please find below the list of upcoming meetings for 2016/17 PG seminar series:
 
 1. Wednesday 7th December, 2-3 pm, Somer's Lecture Theatre - Speakers: **Chelsea Norman** & **Gido Elamin**.
-2. Wednesday 11th January, 2-3 pm, IDS Seminar Room - Speakers: **BM5 Students**.
+2. Thursday 12th January, 2:30-3:30 pm, IDS Seminar Room - Speakers: **BM5 Students**.
 3. Wednesday 1st February, 2-3 pm, IDS Seminar Room - Speakers: **Paola Barragan** & **Reza Jabal**.
 4. Wednesday 1st March, 2-3 pm, IDS Seminar Room- Speakers: **Muna Ghazzawi** & **Tracy Coelho**.
 
@@ -35,4 +35,4 @@ Please find below the list of upcoming meetings for 2016/17 PG seminar series:
 **Please use the following links to give feedback on the effectiveness of presentations today:**
 * [Chelsea's's Presentation](https://goo.gl/forms/qgAED8ruZwIBrGSs2)
 
-* [[Gido's Presentation](https://goo.gl/forms/nlLL2bYCegD1khft1)]
+* [Gido's Presentation](https://goo.gl/forms/nlLL2bYCegD1khft1)
