@@ -17,6 +17,8 @@ Apologies for today's meeting:
 
 **Guest Academic**: Dr William Tapper
 
+***
+
 **December Seminar**: 07/12/2016 - IDS lecture theatre (11-12 am)
 
 Presenters:
@@ -33,6 +35,7 @@ Apologies for today's meeting:
 
 **Guest Academic**: Prof. Diana Baralle
 
+
 ***
 
 **November Seminar**: 12/01/2017 - IDS Lecture Theatre (2:30-3:30 pm)
@@ -45,6 +48,7 @@ Apologies for today's meeting:
 * Dr Tracy Coelho.
 * Muna Ghazzawi.
 * Oliver Heath.
+
 **Guest Academic**: Prof. Sarah Ennis
 
 ***
