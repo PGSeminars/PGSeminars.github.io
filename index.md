@@ -66,6 +66,6 @@ Please find below the list of upcoming meetings for 2016/17 PG seminar series:
 
 **Please use the link below to give feedback on the effectiveness of presentations today:**
 
-https://goo.gl/forms/kzYrkKBqo4MrK0G63
+*[Feedback Form](https://goo.gl/forms/kzYrkKBqo4MrK0G63)
 
 
