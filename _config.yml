@@ -2,7 +2,7 @@ title: PGS 2016/17
 description: 
 google_analytics: 
 show_downloads: true
-theme: jekyll-theme-onepage
+theme: jekyll-theme-OnePage
 
 gems:
   - jekyll-mentions
