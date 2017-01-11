@@ -6,6 +6,7 @@ Presenters:
 1. **Will Sherwood**: "Effect of Breastfeeding on genome-wide DNA methylation in the Isle of Wight Birth Cohort".
 2. **Priya Pulickal**: "Decorin- a potential marker for cardiac fibroblasts".
 3. **Ollie Heath**: "Exploring quality control methods used in the analysis of NGS data".
+4. **Sara Aljareh**:
 
 Apologies for today's meeting:
 
@@ -19,14 +20,17 @@ Apologies for today's meeting:
 **December Seminar**: 07/12/2016 - IDS lecture theatre (11-12 am)
 
 Presenters:
+
 1. **Chelsea Norman**.
 2. **Gido Elamin**.
 
 Apologies for today's meeting:
+
 * Dr Tracy Coelho.
 * Paula Barraga.
 * Alejandra Vergara.
 * Lindert Mercken.
+
 ***
 
 **November Seminar**: 12/01/2017 - IDS Lecture Theatre (2:30-3:30 pm)
@@ -35,6 +39,7 @@ Apologies for today's meeting:
 2. **Lindert Mercken**: "Obesity and the development of lung disease".
 
 Apologies for today's meeting:
+
 * Dr Tracy Coelho.
 * Muna Ghazzawi.
 * Oliver Heath.
