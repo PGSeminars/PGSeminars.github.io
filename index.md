@@ -6,8 +6,8 @@ Presenters:
 **December Seminar**: 07/12/2016 - IDS lecture theatre (11-12 am)
 
 Presenters:
-1. **Chelsea Norman**
-2. **Gido Elamin**
+1. **Chelsea Norman**.
+2. **Gido Elamin**.
 
 Apologies for today's meeting:
 * Dr Tracy Coelho.
@@ -21,9 +21,9 @@ Apologies for today's meeting:
 2. **Lindert Mercken**: "Obesity and the development of lung disease".
 
 Apologies for today's meeting:
-* Dr Tracy Coelho
-* Muna Ghazzawi
-* Oliver Heath
+* Dr Tracy Coelho.
+* Muna Ghazzawi.
+* Oliver Heath.
 
 ***
 Please find below the list of upcoming meetings for 2016/17 PG seminar series:
