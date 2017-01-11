@@ -15,7 +15,7 @@ Apologies for today's meeting:
 * Enrico Mossoto.
 * Gabriella Galata
 
-***
+**Guest Academic**: Dr William Tapper
 
 **December Seminar**: 07/12/2016 - IDS lecture theatre (11-12 am)
 
@@ -31,6 +31,8 @@ Apologies for today's meeting:
 * Alejandra Vergara.
 * Lindert Mercken.
 
+**Guest Academic**: Prof. Diana Baralle
+
 ***
 
 **November Seminar**: 12/01/2017 - IDS Lecture Theatre (2:30-3:30 pm)
@@ -43,6 +45,7 @@ Apologies for today's meeting:
 * Dr Tracy Coelho.
 * Muna Ghazzawi.
 * Oliver Heath.
+**Guest Academic**: Prof. Sarah Ennis
 
 ***
 Please find below the list of upcoming meetings for 2016/17 PG seminar series:
