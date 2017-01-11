@@ -1,3 +1,8 @@
+**January Seminar**: 12/01/2017 - IDS lecture theatre (2:30 - 3:30 pm)
+
+Presenters:
+**BM5 Students**
+
 **December Seminar**: 07/12/2016 - IDS lecture theatre (11-12 am)
 
 Presenters:
@@ -10,7 +15,7 @@ Apologies for today's meeting:
 * Alejandra Vergara
 * Lindert Mercken
 
-**November Seminar**: 02/11/2016 - IDS Seminar room (2-3 pm)
+**December Seminar**: 12/01/2017 - IDS Lecture Theatre (2:30-3:30 pm)
 
 1. **Alejandra Vergara**: "Analysis of recombination and linkage disequilibrium in chicken genomes".
 2. **Lindert Mercken**: "Obesity and the development of lung disease".
@@ -33,6 +38,5 @@ Please find below the list of upcoming meetings for 2016/17 PG seminar series:
 
 
 **Please use the following links to give feedback on the effectiveness of presentations today:**
-* [Chelsea's's Presentation](https://goo.gl/forms/qgAED8ruZwIBrGSs2)
 
-* [Gido's Presentation](https://goo.gl/forms/nlLL2bYCegD1khft1)
+
