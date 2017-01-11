@@ -7,7 +7,7 @@ Presenters:
 1. **Will Sherwood**: "Effect of Breastfeeding on genome-wide DNA methylation in the Isle of Wight Birth Cohort".
 2. **Priya Pulickal**: "Decorin- a potential marker for cardiac fibroblasts".
 3. **Ollie Heath**: "Exploring quality control methods used in the analysis of NGS data".
-4. **Sara Aljareh**:
+4. **Sara Aljareh**: "Identification of new gene variants associated with reduced reproductive fitness of mothers and multilocus imprinting disorders in their offspring".
 
 Apologies for today's meeting:
 
