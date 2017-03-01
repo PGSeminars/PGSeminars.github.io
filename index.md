@@ -1,8 +1,14 @@
 ***
+**March Seminar**: 01/03/2017 - IDS Seminar Room (2:00 - 3:00 pm)
+Presenters:
+1. **Muna Ghazzawi**:
+
+
+**Guest Academic**: Professor Andrew Chase
+***
 **February Seminar**: 01/02/2017 - IDS Seminar Room (2:00 - 3:00 pm)
 
 Presenters:
-**BM5 Students**
 
 1. **Reza Jabal**: "Clinical utility of targeted exome sequencing for molecular diagnosis of Aarskog-Scott syndrome".
 2. **Paola Barragan Osorio**: "From protein to single cell transcriptome analysis of Hypoplastic Left Heart".
