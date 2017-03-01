@@ -5,6 +5,7 @@ Presenters:
 
 
 **Guest Academic**: Professor Andrew Chase
+
 ***
 **February Seminar**: 01/02/2017 - IDS Seminar Room (2:00 - 3:00 pm)
 
